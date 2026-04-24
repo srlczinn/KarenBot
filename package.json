@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+http://github.com/SrLC21/KarenBot.git"
+    "url": "git+http://github.com/srlczinn/KarenBot.git"
   },
   "keywords": [
     "Karen",
@@ -18,9 +18,9 @@
   "author": "Sr LC",
   "license": "MIT",
   "bugs": {
-    "url": "http://github.com/SrLC21/KarenBot/issues"
+    "url": "http://github.com/srlczinn/KarenBot/issues"
   },
-  "homepage": "http://github.com/SrLC21/KarenBot#readme",
+  "homepage": "http://github.com/srlczinn/KarenBot#readme",
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
     "@adiwajshing/keyed-db": "^0.2.4",
